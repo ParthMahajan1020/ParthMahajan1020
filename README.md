@@ -4,29 +4,29 @@
 
 <p align="center">
   🚀 <b>BTech student</b> passionate about <b>Software Development</b>, <b>AI</b>, and <b>System Design</b><br>
-  💻 Currently building <b>ShadowOS-AI</b> — a terminal-based virtual OS powered by AI.
+  💡 Flexible in building projects across multiple domains — from <b>System-level Programming</b> to <b>AI-driven tools</b>.
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🧩 Building interactive command-line systems and automation tools  
-- 🤖 Exploring Artificial Intelligence integrations in system-level software  
-- 💡 Focused on writing modular, scalable, and efficient code  
-- 🎯 Goal: To become a software engineer capable of bridging AI and systems programming  
+- 💻 I love creating **console-based applications**, **AI systems**, and **automation tools**  
+- ⚙️ Strong understanding of **OOP**, **Data Structures**, and **System Design**  
+- 🤖 Exploring **AI integration** in practical, real-world software  
+- 🎯 Aim: To become a developer who can bridge **low-level logic** and **high-level intelligence**  
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💬 Languages
+#### 💬 Languages  
 C · C++ · Java · Python  
 
-#### ⚙️ Tools & Platforms
+#### ⚙️ Tools & Platforms  
 Git · VS Code · Linux Terminal · GitHub  
 
-#### 📚 Core Concepts
-OOP · Data Structures · Algorithms · OS Fundamentals · AI Logic Integration  
+#### 📚 Core Concepts  
+OOP · Data Structures · Algorithms · OS Fundamentals · File Handling · AI Integration  
 
 ---
 
@@ -34,10 +34,13 @@ OOP · Data Structures · Algorithms · OS Fundamentals · AI Logic Integration
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🧠 ShadowOS-AI](https://github.com/ParthMahajan1020/ShadowOS-AI) | A virtual OS written in C, integrated with an AI chatbot | C, Python |
-| [💬 ShadowBot](https://github.com/ParthMahajan1020/ShadowBot) | A terminal-based AI chatbot offering assistance and entertainment | Python |
-| [💸 Finance Manager](https://github.com/ParthMahajan1020/finance-manager) | Console-based project to track income and expenses | Python |
-| [🎮 Tic Tac Toe](https://github.com/ParthMahajan1020/Tic-Tac-Toe----Python-Console-Edition) | Classic game built in Python using OOP principles | Python |
+| [🧠 ShadowOS-AI](https://github.com/ParthMahajan1020/ShadowOS-AI) | A terminal-based virtual OS simulator with AI-powered command prediction | C, Python |
+| [🏦 Bank Management System](https://github.com/ParthMahajan1020/Bank-Management-System) | Java-based system for managing users, accounts, and transactions | Java |
+| [💬 ShadowBot](https://github.com/ParthMahajan1020/ShadowBot) | Terminal-based AI chatbot offering assistance and entertainment | Python |
+| [💸 Finance Manager](https://github.com/ParthMahajan1020/finance-manager) | Console-based expense tracker for income and spending analysis | Python |
+| [🧩 Online Quiz System](https://github.com/ParthMahajan1020/SmartQuiz-Java-Console-Quiz-Game-) | Java OOP-based console quiz app with scoring and feedback system | Java |
+| [📖 DayScribe](https://github.com/ParthMahajan1020/DayScribe) | Daily journal and task manager with storage and user interaction features | Python |
+| [🎮 Tic Tac Toe](https://github.com/ParthMahajan1020/Tic-Tac-Toe----Python-Console-Edition) | Classic console game built using OOP principles | Python |
 
 ---
 
@@ -56,8 +59,8 @@ OOP · Data Structures · Algorithms · OS Fundamentals · AI Logic Integration
 
 ### 🧩 Learning & Growth
 - 📘 Currently exploring advanced **C concepts** & **AI in terminal systems**  
-- ⚡ Interested in **Embedded Systems** and **AI-powered development tools**  
-- 🌱 Learning Japanese and improving English for global collaboration  
+- ⚡ Interested in **Embedded Systems**, **AI-powered development tools**, and **automation**  
+- 🌱 Learning **Japanese** and improving **English** for global collaboration  
 
 ---
 
@@ -75,3 +78,4 @@ OOP · Data Structures · Algorithms · OS Fundamentals · AI Logic Integration
 </p>
 
 <p align="center"><i>“Code with purpose, build with passion.”</i></p>
+
