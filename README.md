@@ -41,7 +41,7 @@ OOP · Data Structures · Algorithms · OS Fundamentals · File Handling · AI I
 | [🧩 Online Quiz System](https://github.com/ParthMahajan1020/SmartQuiz-Java-Console-Quiz-Game-) | Java OOP-based console quiz app with scoring and feedback system | Java |
 | [📖 DayScribe](https://github.com/ParthMahajan1020/DayScribe) | Daily journal and task manager with storage and user interaction features | Python |
 | [🎮 Tic Tac Toe](https://github.com/ParthMahajan1020/Tic-Tac-Toe----Python-Console-Edition) | Classic console game built using OOP principles | Python |
-| [📚 Student Record Management System](https://github.com/yourusername/Student-Record-Management-System) | Java console-based CRUD application to manage student records with unique IDs, names, and marks | Java |
+| [📚 Student Record Management System](https://github.com/ParthMahajan1020/Student-Record-Management-System) | Java console-based CRUD application to manage student records with unique IDs, names, and marks | Java |
 
 ---
 
