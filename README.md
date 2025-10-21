@@ -26,7 +26,7 @@ C · C++ · Java · Python
 Git · VS Code · Linux Terminal · GitHub  
 
 #### 📚 Core Concepts  
-OOP · Data Structures · Algorithms · OS Fundamentals · File Handling · AI Integration  
+OOP · Data Structures · Algorithms · OS Fundamentals · File Handling · CRUD Operations · AI Integration  
 
 ---
 
@@ -79,4 +79,3 @@ OOP · Data Structures · Algorithms · OS Fundamentals · File Handling · AI I
 </p>
 
 <p align="center"><i>“Code with purpose, build with passion.”</i></p>
-
