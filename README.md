@@ -23,7 +23,7 @@
 C · C++ · Java · Python  
 
 #### ⚙️ Tools & Platforms  
-Git · VS Code · Linux Terminal · GitHub  
+Git · VS Code · Linux Terminal · GitHub · IntelliJ Idea
 
 #### 📚 Core Concepts  
 OOP · Data Structures · Algorithms · OS Fundamentals · File Handling · CRUD Operations · AI Integration  
@@ -59,7 +59,7 @@ OOP · Data Structures · Algorithms · OS Fundamentals · File Handling · CRUD
 ---
 
 ### 🧩 Learning & Growth
-- 📘 Currently exploring advanced **C concepts** & **AI in terminal systems**  
+- 📘 Currently exploring advanced **Java concepts** & **AI in terminal systems**  
 - ⚡ Interested in **Embedded Systems**, **AI-powered development tools**, and **automation**  
 - 🌱 Learning **Japanese** and improving **English** for global collaboration  
 
