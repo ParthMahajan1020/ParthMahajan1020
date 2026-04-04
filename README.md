@@ -1,26 +1,26 @@
 <!-- PROFILE README - Parth Mahajan -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#FF4B4B;">Parth Mahajan</span></h1>
+<h1 align="center"> Hey, I'm <span style="color:#FF4B4B;">Parth Mahajan</span></h1>
 
 <p align="center">
-  🚀 BTech student focused on <b>Software Development</b>, <b>System Design</b>, and <b>AI-powered applications</b><br>
+   BTech student focused on <b>Software Development</b>, <b>System Design</b>, and <b>AI-powered applications</b><br>
   Building strong fundamentals first — then scaling to intelligent systems.
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 💻 I enjoy building **logic-heavy console applications** and **system-oriented software**
-- ⚙️ Strong grip on **OOP**, **data handling**, and **clean architecture**
-- 🤖 Exploring **AI integration** in traditional and terminal-based systems
-- 🎯 Goal: Bridge **low-level system logic** with **high-level intelligence**
+-  I enjoy building **logic-heavy console applications** and **system-oriented software**
+-  Strong grip on **OOP**, **data handling**, and **clean architecture**
+-  Exploring **AI integration** in traditional and terminal-based systems
+-  Goal: Bridge **low-level system logic** with **high-level intelligence**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💬 Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### ⚙️ Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 ---
 
-### 📚 Core Concepts
+###  Core Concepts
 <p>
   <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Structures-0277BD?style=for-the-badge"/>
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### ☕ Java Projects (Primary Focus)
 
