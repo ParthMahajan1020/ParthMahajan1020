@@ -3,24 +3,34 @@
 <h1 align="center"> Hey, I'm <span style="color:#FF4B4B;">Parth Mahajan</span></h1>
 
 <p align="center">
-   BTech student focused on <b>Software Development</b>, <b>System Design</b>, and <b>AI-powered applications</b><br>
-  Building strong fundamentals first — then scaling to intelligent systems.
+  BTech CSE Student • Full Stack Developer in Progress • DSA Enthusiast • Software Engineer<br>
+  Building scalable web applications, mastering problem solving, and exploring system-level development.
 </p>
 
 ---
 
-##  About Me
+## About Me
 
--  I enjoy building **logic-heavy console applications** and **system-oriented software**
--  Strong grip on **OOP**, **data handling**, and **clean architecture**
--  Exploring **AI integration** in traditional and terminal-based systems
--  Goal: Bridge **low-level system logic** with **high-level intelligence**
+- Building responsive and interactive web applications using HTML, CSS, JavaScript, and APIs
+- Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, and problem solving
+- Developing full-stack skills while creating real-world projects
+- Experienced in console applications, file handling, and software architecture
+- Exploring AI integration, system design, and system-level programming
+- Goal: Become a versatile Software Engineer capable of building products from frontend to backend
 
 ---
 
 ##  Tech Stack
 
 ###  Languages
+#### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,13 +53,17 @@
 
 ###  Core Concepts
 <p>
-  <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fetch_API-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Structures-0277BD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Algorithms-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-5E35B1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/File_Handling-5D4037?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CRUD_Operations-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OS_Fundamentals-37474F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System_Design-283593?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Learning-00897B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI_Integration-AD1457?style=for-the-badge"/>
 </p>
 
@@ -58,6 +72,16 @@
 ---
 
 ##  Featured Projects
+
+### 🌐 Web Development Projects
+
+| Project | Description |
+|------|-------------|
+| 💱 [Currency Exchanger](https://github.com/ParthMahajan1020/Currency-Exchanger) | Real-time currency conversion application powered by Fetch API integration |
+| 🛒 [Amazon Clone](https://github.com/ParthMahajan1020/Amazon-Clone) | Frontend implementation of an e-commerce platform inspired by Amazon |
+| 🍔 [Swiggy Landing Page](https://github.com/ParthMahajan1020/swiggy-landing-page) | Responsive food delivery landing page focused on modern UI and layout design |
+
+---
 
 ### ☕ Java Projects (Primary Focus)
 
@@ -109,12 +133,16 @@
 
 ---
 
-## 🌱 Learning & Growth
+## 🌱 Currently Learning
 
-- 📘 Advancing in **Java** and **system programming**
-- ⚡ Experimenting with **AI inside terminal applications**
-- 🔌 Interested in **Embedded Systems**, **Automation**, and **developer tools**
-- 🌍 Improving **English** and learning **Japanese**
+- Advanced JavaScript
+- React.js
+- Data Structures & Algorithms
+- Full Stack Development
+- REST APIs
+- Backend Development
+- System Design Fundamentals
+- AI-Powered Applications
 
 ---
 
@@ -136,4 +164,4 @@
   <img src="https://komarev.com/ghpvc/?username=ParthMahajan1020&color=blueviolet&style=flat-square"/>
 </p>
 
-<p align="center"><i>Code with purpose. Build systems that last.</i></p>
+<p align="center"><i>Building today, learning every day, engineering for tomorrow.</i></p>
