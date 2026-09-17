@@ -1,22 +1,26 @@
 <!-- PROFILE README - Parth Mahajan -->
 
-<h1 align="center"> Hey, I'm <span style="color:#FF4B4B;">Parth Mahajan</span></h1>
+<h1 align="center">Hey, I'm Parth Mahajan</h1>
 
 <p align="center">
-  BTech CSE Student • Full Stack Developer in Progress • DSA Enthusiast • Software Engineer<br>
-  Building scalable web applications, mastering problem solving, and exploring system-level development.
+  B.Tech Computer Engineering Student • Full Stack Developer • DSA Enthusiast
+</p>
+
+<p align="center">
+  Building scalable web applications, solving complex problems, and exploring modern software engineering.
 </p>
 
 ---
 
 ## About Me
 
-- Building responsive and interactive web applications using HTML, CSS, JavaScript, and APIs
-- Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, and problem solving
-- Developing full-stack skills while creating real-world projects
-- Experienced in console applications, file handling, and software architecture
-- Exploring AI integration, system design, and system-level programming
-- Goal: Become a versatile Software Engineer capable of building products from frontend to backend
+- Full-stack developer focused on building responsive, scalable, and user-centric web applications with the MERN stack
+- Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and problem solving
+- Experienced in developing real-world projects using React, Node.js, Express.js, MongoDB, REST APIs, and authentication
+- Interested in clean architecture, system design, AI integration, and modern web technologies
+- Comfortable working across frontend and backend while integrating APIs, databases, authentication, and third-party services
+- Continuously improving my development and problem-solving skills through real-world projects, DSA, and hands-on learning
+- Aspiring to become a well-rounded Software Engineer capable of designing, building, and scaling reliable software products
 
 ---
 
