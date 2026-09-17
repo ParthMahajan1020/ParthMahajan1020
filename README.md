@@ -77,6 +77,7 @@
 
 | Project | Description |
 |------|-------------|
+| 📸 [MR. KEMREWALA](https://github.com/ParthMahajan1020/MR.KEMREWALA) | Capturing Moments That Last Forever |
 | 👥 [CommunityConnect](https://github.com/ParthMahajan1020/CommunityConnect) | Connecting people, sharing help, and building stronger communities |
 | 💱 [Currency Exchanger](https://github.com/ParthMahajan1020/Currency-Exchanger) | Real-time currency conversion application powered by Fetch API integration |
 | 🛒 [Amazon Clone](https://github.com/ParthMahajan1020/Amazon-Clone) | Frontend implementation of an e-commerce platform inspired by Amazon |
