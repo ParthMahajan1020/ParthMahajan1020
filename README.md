@@ -108,6 +108,8 @@
 
 | Project | Description |
 |------|-------------|
+| 💻 [Personal Portfolio](https://personal-portfolio-q747.vercel.app/) | A Digital Space Showcasing My Journey in Tech |
+| 🤖 [CodeRoast AI](https://code-roast-ai-ruby.vercel.app/) | Where Your Code Meets Its Harshest Critic |
 | 📸 [MR. KEMREWALA](https://github.com/ParthMahajan1020/MR.KEMREWALA) | Capturing Moments That Last Forever |
 | 👥 [CommunityConnect](https://github.com/ParthMahajan1020/CommunityConnect) | Connecting people, sharing help, and building stronger communities |
 | 💱 [Currency Exchanger](https://github.com/ParthMahajan1020/Currency-Exchanger) | Real-time currency conversion application powered by Fetch API integration |
