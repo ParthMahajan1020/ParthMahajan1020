@@ -1,4 +1,4 @@
-<!-- PROFILE README - Parth Mahajan -->
+[<!-- PROFILE README - Parth Mahajan -->
 
 <h1 align="center">Hey, I'm Parth Mahajan</h1>
 
@@ -187,7 +187,7 @@
   <a href="mailto:parth.mahajan1020@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/parth-mahajan1020/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ParthMahajan1020">
@@ -200,3 +200,4 @@
 </p>
 
 <p align="center"><i>Building today, learning every day, engineering for tomorrow.</i></p>
+](https://www.linkedin.com/in/parth-mahajan1020/)
